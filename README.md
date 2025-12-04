@@ -23,9 +23,9 @@ Here are some highlights from my portfolio:
 
 ## Contact
 - 📧 hani.boutlat@gmail.com  
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [Your GitHub Profile URL]
-
+- LinkedIn: https://www.linkedin.com/in/hani-boutlat/
+- GitHub: https://github.com/haniboutlat
+- School: Karel de Grote Hogeschool
 ---
 
 Feel free to explore my projects, try out demos, and see my code in action!  
