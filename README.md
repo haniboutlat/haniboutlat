@@ -22,7 +22,7 @@ Here are some highlights from my portfolio:
 - **Food Management Application** – Full-stack web app with PHP, SQL, Bootstrap; includes admin and user interfaces.
 
 ## Contact
-- 📧 hani.boutlat@gmail.com  
+- E-mail: hani.boutlat@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/hani-boutlat/
 - GitHub: https://github.com/haniboutlat
 - School: Karel de Grote Hogeschool
