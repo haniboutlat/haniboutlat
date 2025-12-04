@@ -3,7 +3,7 @@
 Welcome to my personal GitHub repository! This repository showcases my projects, skills, and learning journey as a Bachelor in Applied Computer Science student at Karel de Grote Hogeschool.
 
 ## About Me
-I am a motivated IT student with a passion for programming, software development, and technical problem-solving. I enjoy working on projects that challenge me to learn new technologies and collaborate effectively in teams.
+I am a motivated IT student with a passion for programming, software development, and technical problem-solving. I enjoy working on projects that challenge me to learn new technologies and collaborate effectively in teams. I am currently seeking opportunities for paid internships or student IT work during vacation periods to gain hands-on experience and contribute meaningfully to real-world projects.
 
 **Skills:**
 - **Programming:** Java, C#, Python, PHP  
