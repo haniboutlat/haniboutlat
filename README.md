@@ -13,12 +13,12 @@ I am interested in internship opportunities, student IT jobs, and projects where
 ## Technical Skills
 
 * **Programming Languages:** Java, C#, Python, PHP
-* **Web Development:** HTML, CSS, JavaScript, Bootstrap, React
-* **Backend Development:** ASP.NET Core, PHP
+* **Web Development:** HTML, CSS, JavaScript, Bootstrap
+* **Backend Development:** PHP
 * **Databases:** PostgreSQL, MySQL, relational database design
 * **Systems & Infrastructure:** Linux, Docker, Nginx, VirtualBox
 * **Networking:** TCP/IP, network fundamentals, Cisco Packet Tracer
-* **Development Tools:** Git, GitHub, GitLab, IntelliJ IDEA, VS Code, JetBrains Rider
+* **Development Tools:** Git, GitHub, GitLab, IntelliJ IDEA, VS Code, JetBrains Rider and WebStorm
 * **Other:** JavaFX, Maven, REST APIs, software design, team collaboration
 
 ## Projects
@@ -35,7 +35,7 @@ A team project focused on developing a workflow management system for a fresh fo
 
 ### The Rose King – Java Application
 
-A team-based software development project built with Java and JavaFX.
+A team-based game project built with Java and JavaFX.
 
 * Developed a desktop application using JavaFX and Maven.
 * Collaborated on application structure and implementation.
