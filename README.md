@@ -19,7 +19,7 @@ I am interested in internship opportunities, student IT jobs, and projects where
 * **Systems & Infrastructure:** Linux, Docker, Nginx, VirtualBox
 * **Networking:** TCP/IP, network fundamentals, Cisco Packet Tracer
 * **Development Tools:** Git, GitHub, GitLab, IntelliJ IDEA, VS Code, JetBrains Rider and WebStorm
-* **Other:** JavaFX, Maven, REST APIs, software design, team collaboration
+* **Other:** JavaFX, Maven, Gradle, software design, team collaboration
 
 ## Projects
 
