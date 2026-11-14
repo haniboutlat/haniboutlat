@@ -1,77 +1,69 @@
-# Hani Boutlat – Portfolio
+# Hani Boutlat
 
-Welcome to my personal GitHub repository! This portfolio showcases my projects, technical skills, and learning journey as a Bachelor of Applied Computer Science student at Karel de Grote Hogeschool (KdG), specializing in AI.
+**Applied Computer Science Student | AI & Data Science**
 
-## About Me
+I'm a Bachelor of Applied Computer Science student at Karel de Grote Hogeschool (KdG), specializing in AI.
 
-I am an Applied Computer Science student interested in software engineering, AI, data science, and IT infrastructure. I enjoy building practical applications, solving technical problems, and learning how software works from the frontend to the server.
-
-Through individual and team projects, I have gained experience in application development, database design, Linux environments, networking, and containerization. I am continuously expanding my skills by building projects and exploring new technologies.
-
-I am interested in internship opportunities, student IT jobs, and projects where I can contribute to real-world software development.
+I'm interested in software engineering, artificial intelligence, and data science. I enjoy exploring new technologies, solving practical problems, and developing my skills through individual and team projects.
 
 ## Technical Skills
 
-* **Programming Languages:** Java, C#, Python, PHP
-* **Web Development:** HTML, CSS, JavaScript, Bootstrap
-* **Backend Development:** PHP
-* **Databases:** PostgreSQL, MySQL, relational database design
-* **Systems & Infrastructure:** Linux, Docker, Nginx, VirtualBox
-* **Networking:** TCP/IP, network fundamentals, Cisco Packet Tracer
-* **Development Tools:** Git, GitHub, GitLab, IntelliJ IDEA, VS Code, JetBrains Rider and WebStorm
-* **Other:** JavaFX, Maven, Gradle, software design, team collaboration
+| Category             | Technologies                                          |
+| -------------------- | ----------------------------------------------------- |
+| Programming          | Java, C#, Python, PHP                                 |
+| Web Development      | HTML, CSS, JavaScript                                 |
+| Databases            | PostgreSQL, MySQL                                     |
+| Data Science         | Pandas, BeautifulSoup, Matplotlib, Orange Data Mining |
+| Systems & Networking | Linux, Docker, Wireshark                              |
+| Tools                | Git, GitHub, GitLab, IntelliJ IDEA, VS Code           |
 
 ## Projects
 
-### HiFresh – Workflow Management System
+### Stock Data Analysis – Tesla & GameStop
 
-A team project focused on developing a workflow management system for a fresh food business.
+A Python project completed as part of the IBM Python Project for Data Science.
 
-* Designing workflows for recipes, ingredients, suppliers, orders, and FreshBoxes.
-* Planned frontend using React, HTML, and CSS.
-* Backend development using C# and ASP.NET Core.
-* PostgreSQL database integration.
-* Exploring deployment using Linux, Docker, and Nginx.
+- Retrieved historical stock data using yfinance.
+- Collected quarterly revenue data through web scraping.
+- Cleaned and processed datasets using Pandas.
+- Created data visualizations using Matplotlib.
+- Used BeautifulSoup for web scraping.
 
-### The Rose King – Java Application
+### Arduino Automatic Night Light
 
-A team-based game project built with Java and JavaFX.
+An Arduino UNO project using a light-dependent resistor (LDR).
 
-* Developed a desktop application using JavaFX and Maven.
-* Collaborated on application structure and implementation.
-* Took on a team leadership role and contributed to the development environment.
+- Designed and implemented an automatic lighting circuit.
+- Used an LDR sensor to detect ambient light levels.
+- Controlled an LED based on the detected light intensity.
 
-### Food Ordering System
+### Aisle 7 – Smart Shopping Solution
 
-A software design and development project focused on application structure, requirements, and technical decision-making.
+A team-based project focused on identifying a real-world problem and developing a business-oriented solution.
 
-### Interactive Dashboard UI
+- Identified the problem of customers spending too much time finding products in physical stores.
+- Defined the target audience and developed a solution concept.
+- Worked on the business case, investment pitch, and target audience presentation.
+- Planned the product concept, its value proposition, and the steps required to bring the solution to market.
+- Created an AI-generated application prototype to demonstrate the proposed solution.
 
-A Windows 8-inspired dashboard featuring an interactive interface and responsive design.
+### Windows 8 Interactive Dashboard
 
-### Jane's Fashion Blog
+An interactive dashboard inspired by the Windows 8 interface.
 
-A responsive frontend website built with HTML, CSS, and Font Awesome.
+- Built using HTML, CSS, and Font Awesome.
+- Designed a responsive layout with interactive elements and hover animations.
+- Focused on frontend development and user interface design.
 
-### Arduino Night Light
+## Currently Exploring
 
-An Arduino UNO project using a light-dependent resistor (LDR) to automate a night light.
-
-## Currently Learning
-
-* Application development and software engineering
-* AI and data science
-* Modern frontend and backend development
-* Linux system administration and server deployment
-* Docker, reverse proxies, load balancing, and infrastructure management
-* Building and deploying practical software projects
+- Software engineering and application development
+- Artificial intelligence and data science
+- Python for data analysis and machine learning
+- Cloud computing and infrastructure
+- Backend development and database systems
 
 ## Contact
 
-* **Email:** [hani.boutlat@gmail.com](mailto:hani.boutlat@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/hani-boutlat/
-* **GitHub:** https://github.com/haniboutlat
-
----
-
-Feel free to explore my repositories to see what I am building and how my skills are developing.
+- **LinkedIn:** [https://www.linkedin.com/in/hani-boutlat/](https://www.linkedin.com/in/hani-boutlat/)
+- **GitHub:** [https://github.com/haniboutlat](https://github.com/haniboutlat)
