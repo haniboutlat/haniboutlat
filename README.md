@@ -57,11 +57,10 @@ An interactive dashboard inspired by the Windows 8 interface.
 
 ## Currently Exploring
 
-- Software engineering and application development
-- Artificial intelligence and data science
+- Software engineering and CRUD application development
 - Python for data analysis and machine learning
-- Cloud computing and infrastructure
-- Backend development and database systems
+- Backend development and database systems with .NET
+- Artificial intelligence and data science
 
 ## Contact
 
